@@ -1,5 +1,4 @@
 ## Привет, я Иван 👋
----
 ## Обо мне
 <!--
 **MrGriv/MrGriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
